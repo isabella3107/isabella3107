@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @isabella3107
 - 👀 I’m interested in back-end, security and development
-- 🌱 I’m currently learning c/c++
+- 🌱 I’m currently learning c, java.
 - 😄 Pronouns: she/her
 
 <!---
